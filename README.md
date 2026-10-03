@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, я Камиль 👋 
 
-<!--
-**hanafin-dev/hanafin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разработчик Python & Cross-platform приложений с бэкграундом в графическом дизайне.
 
-Here are some ideas to get you started:
+🏆 Достижения:
+* Призёр всероссийского конкурса «Профессионалы» (2023, 2024) в компетенции «Графический дизайн».
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Технологический стек:
+* Языки: Python, C++, SQL (SQLite)
+* Фреймворки и UI: Flutter / Flet, Design Systems, UI/UX
+* Инструменты: Git, VS Code, Linux/Windows
+
+🚀 Мои проекты:
+* 📱 Car Tracker — Приложение-дневник технического обслуживания авто с экономным Blackout UI для AMOLED-экранов.
+* 🖼 Img2Dot — Консольный графический конвертер изображений в ASCII/точечную графику.
+* 🎙 Mirai (Штурман) — В разработке: Умный голосовой помощник и система управления ПК через смартфон.
+
+📫 Связь со мной:
+* Email: hanafin.dev@gmail.com
