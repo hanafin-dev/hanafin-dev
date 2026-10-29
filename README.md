@@ -1,23 +1,16 @@
-<div align="center">
+# Привет, я Камиль — разработчик! 👋
 
-# Привет, я разработчик! 👋
-
-<!-- Бейджи технологий и достижений -->
-[![Python](https://shields.io)](https://python.org)
-[![Flutter/Flet](https://shields.io)](https://flet.dev)
-[![Database](https://shields.io)](https://sqlite.org)
-
-[![Award](https://shields.io)](https://github.com)
+`🐍 Python 3.10+` &nbsp;&nbsp; `📱 Flet | Flutter UI` &nbsp;&nbsp; `🗄️ SQLite Database` &nbsp;&nbsp; `🥉 2x Bronze | Professionals 23-24`
 
 ---
 
 Разрабатываю прикладные Python-скрипты, консольные утилиты автоматизации и мобильные оффлайн-приложения на Flet (Flutter).  
 Фокусируюсь на **чистой архитектуре** и высокой энергоэффективности (**AMOLED Blackout UI**).
 
-</div>
+---
 
 ### 🏆 Достижения и квалификация
-* 🥇 **Призёр всероссийского чемпионата «Профессионалы»** по компетенции «Графический дизайн» (2023–2024 гг.).
+* 🥉 **Двукратный бронзовый призёр (3 место)** всероссийского чемпионата «Профессионалы» по компетенции «Графический дизайн» (2023 и 2024 гг.).
 * 🎓 **Студент 2 курса** профильного IT-колледжа (специализация: мобильная и прикладная разработка).
 
 ---
@@ -35,12 +28,12 @@
 
 ### 📌 Избранные проекты в портфолио
 
-* **📱 [CarTrack](https://github.com/car-tracker)**  
+* **📱 [CarTrack](https://github.com)**  
   *Мобильный оффлайн-дневник ТО автомобиля.*  
   * **Стек:** Flet (Flutter), SQLite  
   * **Фича:** Чистый Blackout AMOLED UI (`#000000`) для максимального энергосбережения.
 
-* **⚙️ [Img2Dot](https://github.com/img2dot)**  
+* **⚙️ [Img2Dot](https://github.com)**  
   *Консольный растризатор графики.*  
   * **Стек:** Python, Pillow, CLI  
   * **Фича:** Конвертирует аниме-арты и изображения в символьную или бинарную матрицу прямо в терминале.
@@ -54,10 +47,8 @@
 
 ### 📬 Связь и сотрудничество
 
-<div align="center">
-
-[![Kwork](https://shields.io)](https://kwork.ru) 
-&nbsp;&nbsp;
-[![GitHub](https://shields.io)](https://github.com)
-
-</div>
+* **💬 Telegram:** [@slowedvreverb](https://t.me) — *для быстрых вопросов и заказов*
+* **💻 GitHub:** [@hanafin-dev](https://github.com)
+<!-- 
+* **💼 Kwork:** [Заказать разработку](https://kwork.ru) 
+-->
