@@ -1,26 +1,63 @@
-```markdown
-# Привет, я разработчик! 👋 [@hanafin-dev]
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
-[![Flutter/Flet](https://img.shields.io/badge/UI-Flet%20%7C%20Flutter-cyan?logo=flutter)](https://flet.dev)
-[![Database](https://img.shields.io/badge/Database-SQLite-darkblue?logo=sqlite)](https://sqlite.org)
-[![Award](https://img.shields.io/badge/Призёр-«Профессионалы»%202023--2024-gold)](#)
+# Привет, я разработчик! 👋
 
-Разрабатываю прикладные Python-скрипты, консольные утилиты автоматизации и мобильные оффлайн-приложения на Flet (Flutter) с упором на чистую архитектуру и высокую энергоэффективность (AMOLED Blackout UI).
+<!-- Бейджи технологий и достижений -->
+[![Python](https://shields.io)](https://python.org)
+[![Flutter/Flet](https://shields.io)](https://flet.dev)
+[![Database](https://shields.io)](https://sqlite.org)
 
-### 🏆 Достижения и квалификация:
-- **Призёр всероссийского чемпионата «Профессионалы»** по компетенции «Графический дизайн» (2023–2024 гг.).
-- Студент 2 курса профильного IT-колледжа (мобильная и прикладная разработка).
-
-### 🛠️ Мой стек:
-- **Языки:** Python, C++, SQL (SQLite).
-- **Интерфейсы:** Flet (Flutter runtime для Android и Windows), CustomTkinter.
-- **Инструменты:** Git, PowerShell, Ripgrep, Playwright, Pillow (PIL), NumPy.
-
-### 📌 Избранные проекты в портфолио:
-1. **[CarTrack](https://github.com/hanafin-dev/car-tracker)** — Мобильный оффлайн-дневник ТО с чистым Blackout AMOLED UI (#000000) и SQLite.
-2. **[Img2Dot](https://github.com/hanafin-dev/img2dot)** — Консольный растризатор аниме-артов и графики в символьную/бинарную матрицу.
-3. **«Мирай» (Штурман)** — Экосистема бесшовного управления ПК со смартфона по Wi-Fi.
+[![Award](https://shields.io)](https://github.com)
 
 ---
-📬 **Связь и заказы:** Kwork Profile / GitHub [@hanafin-dev](https://github.com/hanafin-dev)
+
+Разрабатываю прикладные Python-скрипты, консольные утилиты автоматизации и мобильные оффлайн-приложения на Flet (Flutter).  
+Фокусируюсь на **чистой архитектуре** и высокой энергоэффективности (**AMOLED Blackout UI**).
+
+</div>
+
+### 🏆 Достижения и квалификация
+* 🥇 **Призёр всероссийского чемпионата «Профессионалы»** по компетенции «Графический дизайн» (2023–2024 гг.).
+* 🎓 **Студент 2 курса** профильного IT-колледжа (специализация: мобильная и прикладная разработка).
+
+---
+
+### 🛠️ Технологический стек
+
+| Сфера | Технологии и инструменты |
+| :--- | :--- |
+| **Языки программирования** | `Python`, `C++`, `SQL (SQLite)` |
+| **Интерфейсы / UI** | `Flet` (Flutter runtime для Android & Windows), `CustomTkinter` |
+| **Инструменты & Окружение** | `Git`, `PowerShell`, `Ripgrep` |
+| **Библиотеки / Скрапинг** | `Playwright`, `Pillow (PIL)`, `NumPy` |
+
+---
+
+### 📌 Избранные проекты в портфолио
+
+* **📱 [CarTrack](https://github.com/car-tracker)**  
+  *Мобильный оффлайн-дневник ТО автомобиля.*  
+  * **Стек:** Flet (Flutter), SQLite  
+  * **Фича:** Чистый Blackout AMOLED UI (`#000000`) для максимального энергосбережения.
+
+* **⚙️ [Img2Dot](https://github.com/img2dot)**  
+  *Консольный растризатор графики.*  
+  * **Стек:** Python, Pillow, CLI  
+  * **Фича:** Конвертирует аниме-арты и изображения в символьную или бинарную матрицу прямо в терминале.
+
+* **🤖 «Мирай» (Штурман)**  
+  *Экосистема для удаленного управления.*  
+  * **Стек:** Python, Wi-Fi протоколы  
+  * **Фича:** Бесшовное управление операционной системой ПК прямо со смартфона по локальной сети.
+
+---
+
+### 📬 Связь и сотрудничество
+
+<div align="center">
+
+[![Kwork](https://shields.io)](https://kwork.ru) 
+&nbsp;&nbsp;
+[![GitHub](https://shields.io)](https://github.com)
+
+</div>
